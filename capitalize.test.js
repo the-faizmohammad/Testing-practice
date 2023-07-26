@@ -24,4 +24,3 @@ describe('capitalize Function Test', () => {
     expect(() => capitalize(inputNumber)).toThrow('Input should be a string.');
   });
 });
-
